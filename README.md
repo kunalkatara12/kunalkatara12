@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Backend Web Development**
 
-- 💬 Ask me about **next.js,react,javascript etc.**
+- 💬 Ask me about **next.js,react,javascript,typescript,nodejs,mongodb etc.**
 
 - 📫 How to reach me **kunalkatara888@gmail.com**
 
