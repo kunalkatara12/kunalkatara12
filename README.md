@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalkatara12&label=Profile%20views&color=0e75b6&style=flat" alt="kunalkatara12" /> </p>
 
-- 🌱 I’m currently learning **Backend Web Development**
+- 🌱 I’m currently improving my skills of **Backend Web Development**
 
 - 💬 Ask me about **next.js,react,javascript,typescript,nodejs,mongodb etc.**
 
