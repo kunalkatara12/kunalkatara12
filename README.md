@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kunal Katara</h1>
-<h3 align="center">A passionate <i>Web Developer</i> from India</h3>
+<h3 align="center">A passionate <i>Software Developer</i> from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalkatara12&label=Profile%20views&color=0e75b6&style=flat" alt="kunalkatara12" /> </p>
 
-- 🌱 I’m currently improving my skills of **Backend Web Development**
+- 🌱 I’m currently improving my skills in **Android Development**
 
-- 💬 Ask me about **next.js,react,javascript,typescript,nodejs,mongodb etc.**
+- 💬 Ask me about **next.js, react, javascript, typescript, nodejs, mongodb, postgres, prisma, react-native, etc.**
 
 - 📫 How to reach me **kunalkatara888@gmail.com**
 
